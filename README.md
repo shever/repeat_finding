@@ -3,6 +3,7 @@
 
 Files and folders in this project are listed as follows:
 
+0. this readme file;
 1. Folder for blast software which is applied in this project to make alignment between two gene blocks;
 2. Folder for genome strain data which includes a set of reference genome;
 3. faNamesPre.txt with genome name information;
